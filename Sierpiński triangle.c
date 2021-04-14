@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Main
 int main()
 {
     int x; // Variável que irá servir para comparação de bits e contadora
